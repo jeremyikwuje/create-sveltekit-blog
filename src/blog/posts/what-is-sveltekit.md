@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: "What is Sveltekit"
+description: "Learn everything you need to know about Sveltekit."
 date: 2023-06-18 14:59:59
 featured: "/uploads/prince.jpg"
 ---
